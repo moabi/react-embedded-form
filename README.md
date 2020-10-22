@@ -1,6 +1,8 @@
 # React Embedded Form
 
-**DEPRECATED**: go to https://github.com/lyra/embedded-form-glue
+New version is here : https://github.com/lyra/embedded-form-glue
+
+**DEPRECATED**
 
 [![Build Status](https://travis-ci.org/PureBilling/react-embedded-form.svg?branch=develop)](https://travis-ci.org/PureBilling/react-embedded-form)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/PureBilling/react-embedded-form/blob/master/LICENSE)
